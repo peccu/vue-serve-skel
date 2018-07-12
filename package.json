@@ -1,0 +1,25 @@
+{
+  "name": "vue-serve-skel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peccu/vue-serve-skel.git"
+  },
+  "author": "peccu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peccu/vue-serve-skel/issues"
+  },
+  "homepage": "https://github.com/peccu/vue-serve-skel#readme",
+  "devDependencies": {
+    "@vue/cli": "^3.0.0-rc.3",
+    "@vue/cli-service-global": "^3.0.0-rc.3",
+    "less": "^3.7.1",
+    "less-loader": "^4.1.0"
+  }
+}
